@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Mecánicas y dinámicas de juego/Mecánicas y dinámicas de juego.md",
+                "file": "Forja Estelar - Índice.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Forja Estelar - Índice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Forja Estelar - Índice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Forja Estelar - Índice.md"
+              }
             }
           }
         ]
@@ -156,19 +160,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "523bc664501bc2b9",
+  "active": "a4f7c88e361366e9",
   "lastOpenFiles": [
     "6. Audio/Audio.md",
+    "5. Arte/Arte.md",
+    "4. Interfaz/Interfaz.md",
+    "3. Mundo de juego/Mundo de juego.md",
     "2. Mecánicas y dinámicas de juego/Mecánicas y dinámicas de juego.md",
     "1. Concepto general/Concepto general.md",
     "Forja Estelar - Índice.md",
     "1. Concepto general/Agradecimientos.md",
     "1. Concepto general/Prefacio.md",
     "1. Concepto general/Intención.md",
-    "3. Mundo de juego/Mundo de juego.md",
     "7. Glosario/Glosario.md",
-    "5. Arte/Arte.md",
-    "4. Interfaz/Interfaz.md",
     "Untitled",
     "7. Glosario/Glosario - Imágenes",
     "7. Glosario",
